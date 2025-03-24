@@ -26,7 +26,7 @@ Abyss-Of-Flame/
 
 ## 交流与讨论
 - GitHub Discussions
-- 项目邮箱：abyss@example.com
+- 项目邮箱：ccbsdu@hotmail.com
 - 微信群：请通过 Issues 申请加入
 - Discord: [加入服务器](https://discord.gg/abyssofflame)
 - Reddit: r/AbyssOfFlame
