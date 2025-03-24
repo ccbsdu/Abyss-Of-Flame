@@ -23,7 +23,6 @@ Abyss-Of-Flame/
 └── README.md
 ```
 
-// ... 中间内容保持不变 ...
 
 ## 交流与讨论
 - GitHub Discussions
@@ -32,7 +31,7 @@ Abyss-Of-Flame/
 - Discord: [加入服务器](https://discord.gg/abyssofflame)
 - Reddit: r/AbyssOfFlame
 
-// ... 后面内容保持不变 ...
+
 ## 核心内容
 
 ### 理论研究
