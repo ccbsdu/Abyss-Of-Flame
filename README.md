@@ -95,9 +95,9 @@ The Abyss of Flame Hypothesis explores consciousness, memory, and time perceptio
 
 
 ## Changelog
-- 2024-01: Version 7.0 theoretical framework release
-- 2024-02: Practice guidelines initial version complete
-- 2024-03: Case studies ongoing updates
+- 2025-03: Version 7.0 theoretical framework release
+- 2025-03: Practice guidelines initial version complete
+- 2025-03: Case studies ongoing updates
 
 ## Acknowledgments
 Thanks to all researchers, practitioners, and creators who have contributed to the project's development.
@@ -115,3 +115,6 @@ Welcome to join our research and creation.
 
 ## License
 © 2024 Abyss of Flame Project. All rights reserved.
+
+## Latest Version
+- [Version 7.0](docs/theory/version7.0/): Distributed Flame Core & Neutrino-Dark Matter Integration
